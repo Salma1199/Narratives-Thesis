@@ -1,0 +1,216 @@
+,Cluster #,Top SVOs,Title,Topic,Perspective Writer to Subject,Value to Subject,Value to Objects,Dehumanizing Keywords Total,llama Predictions,Telegraph Proportion,Guardian Proportion,Global North Proportion,Global South Proportion,EU Proportion,Non-EU Proportion,Total Count,Number of Articles,Number of SVOs
+0,0,"you have food
+authority provide food
+biden attend dinner
+breakfast follow series
+child eat food",Food Access,integration,0.34,0.74,0.53,6,0.15,0.67,0.86,0.39,0.61,0.2,0.8,267,252,94
+1,1,"who support democrats
+democrats accuse government
+democrats accuse trump
+democrats become party
+democrats boost number",Democrats,systems/policy,0.24,0.73,0.55,0,0.0,0.46,0.81,0.41,0.59,0.13,0.87,181,166,70
+2,2,"you get flight
+aircraft assist crew
+we get flight
+we get plane
+we have airfield",Flights & Airstrikes,crime/law,0.27,0.62,0.4,4,-0.59,0.56,0.74,0.38,0.62,0.19,0.81,313,255,90
+3,3,"who use republicans
+biden accuse republicans
+biden tell republicans
+biden urge republicans
+people vote republican",Republicans,systems/policy,0.22,0.73,0.59,0,0.0,0.31,0.94,0.41,0.59,0.09,0.91,190,165,77
+4,4,"who visit australia
+alex tell australia
+spokesman tell australia
+spokesperson tell australia
+that affect australians",Australia Benchmarks,international issues,0.33,0.75,0.6,9,-0.59,0.12,0.96,0.54,0.46,0.1,0.9,312,288,122
+5,5,"warsaw accuse putin
+agency quote putin
+biden call putin
+chancellor urge putin
+putin sign decree",Putin Actions,international issues,0.21,0.75,0.55,5,-0.59,0.54,0.88,0.66,0.34,0.34,0.66,267,200,76
+6,6,"government pay million
+government spend billion
+government spend million
+thousand cross border
+thousand cross channel",Country Expenditures,economics,0.16,0.63,0.33,265,-0.59,0.79,0.63,0.41,0.59,0.21,0.79,831,769,259
+7,7,"government spend year
+uk have year
+uk face year
+treatment take year
+tories spend year",Attributes with Year Duration,economics,0.42,0.58,0.22,3,-0.59,0.73,0.78,0.47,0.53,0.24,0.76,493,474,99
+8,8,"you spend month
+business have month
+case take month
+challenge take month
+charge carry month",Attributes with Weeks Duration,integration,0.4,0.57,0.25,0,-0.44,0.78,0.82,0.42,0.58,0.19,0.81,293,284,70
+9,9,"president unveil proposal
+president urge biden
+president urge nation
+president urge state
+president use that",President Actions & Decisions,systems/policy,0.27,0.79,0.6,2,0.0,0.35,0.92,0.49,0.51,0.23,0.77,278,240,96
+10,10,"police lead investigation
+police investigate incident
+police investigate case
+police open investigation
+police prepare report",Police Actions,crime/law,0.33,0.78,0.52,0,-0.24,0.68,0.74,0.45,0.55,0.18,0.82,260,244,91
+11,11,"trump call what
+trump face charge
+trump order department
+trump repeat claim
+trump deliver remark",Trump Actions & Attributes,systems/policy,0.26,0.77,0.54,3,-0.59,0.51,0.88,0.37,0.63,0.06,0.94,820,732,243
+12,12,"you compare israel
+administration tell israel
+biden urge israel
+biden visit israel
+cameron urge israel",Israel Actions & Attributes,international issues,0.3,0.75,0.58,6,-0.59,0.31,0.93,0.37,0.63,0.17,0.83,423,299,110
+13,13,"secretary tell house
+which pass house
+i inform house
+we do house
+minister tell house",Housing Situation,integration,0.31,0.75,0.61,12,0.15,0.73,0.84,0.47,0.53,0.2,0.8,354,332,104
+14,14,"people seek asylum
+people claim asylum
+population seek refuge
+we need shelter
+we grant asylum",Asylum & Refuge,integration,0.37,0.72,0.58,0,0.15,0.84,0.8,0.41,0.59,0.25,0.75,547,526,92
+15,15,"party hold lead
+party have chance
+party have that
+party have plan
+that propel party",Political Parties,systems/policy,0.31,0.75,0.49,1,0.05,0.7,0.79,0.54,0.46,0.28,0.72,298,281,92
+16,16,"who support russia
+activist flee russia
+russians invade ukraine
+russians make that
+russians move i",Russia & Ukraine,international issues,0.2,0.68,0.54,10,-0.59,0.38,0.94,0.65,0.35,0.33,0.67,520,410,138
+17,17,"court make ruling
+kc tell court
+judge hear argument
+judge hear appeal
+judge have that",Court Legislations,crime/law,0.25,0.83,0.52,2,-0.59,0.51,0.81,0.47,0.53,0.17,0.83,333,283,96
+18,18,"government have majority
+party win seat
+party win election
+minister call election
+government win vote",Elections & Votes,systems/policy,0.4,0.77,0.59,1,0.0,0.72,0.81,0.55,0.45,0.27,0.73,495,455,107
+19,19,"i m girl
+those include woman
+tiwari tell i
+we become mother
+we get woman",Female Migrant Expriences,integration,0.32,0.73,0.66,0,0.15,0.7,0.85,0.36,0.64,0.17,0.83,436,413,134
+20,20,"which kill palestinians
+action kill palestinians
+airstrike kill palestinians
+israel wage war
+israeli kill palestinians",Israel & Hamas Attacks,international issues,-0.16,0.46,0.42,1,-0.89,0.44,0.97,0.34,0.66,0.15,0.85,394,315,75
+21,21,"braverman tell conference
+braverman take responsibility
+braverman take question
+braverman start speech
+braverman signal desire",Braverman Actions & Attributes,systems/policy,0.31,0.84,0.55,5,0.0,0.81,0.68,0.44,0.56,0.24,0.76,269,244,84
+22,22,"you want change
+authority reach uk
+bill put uk
+britain accept migrant
+britain adopt rule",UK Migrant Inflows,flows,0.34,0.73,0.5,13,-0.59,0.79,0.69,0.54,0.46,0.32,0.68,1402,1320,314
+23,23,"migrant cross channel
+migrant show migrant
+that draw migrant
+that enable migrant
+that encourage migrant",Migrant Experiences,flows,0.33,0.7,0.54,7,-0.44,0.84,0.48,0.45,0.55,0.33,0.67,609,598,147
+24,24,"bill become law
+government pass law
+government introduce law
+parliament pass legislation
+parliament pass bill",Legislative Law,crime/law,0.24,0.67,0.42,0,0.0,0.66,0.81,0.5,0.5,0.21,0.79,338,320,81
+25,25,"you tell family
+application have family
+authority include child
+biden join family
+biden meet family",Family Experiences,integration,0.35,0.69,0.54,5,-0.24,0.71,0.89,0.43,0.57,0.2,0.8,857,809,214
+26,26,"he become minister
+i ask minister
+minister tell program
+minister tell conference
+minister give speech",Ministerial Talks & Decisions,systems/policy,0.26,0.8,0.57,2,-0.29,0.61,0.78,0.5,0.5,0.22,0.78,997,906,264
+27,27,"people kill people
+who kill father
+strike kill people
+threat kill father
+this kill i",Victim Killings,crime/law,-0.65,0.2,0.46,1,-0.74,0.44,0.95,0.41,0.59,0.2,0.8,682,540,120
+28,28,"you see time
+assessment take time
+be give time
+we take time
+which allow time",Time to Integrate,integration,0.44,0.66,0.48,1,0.0,0.79,0.85,0.48,0.52,0.21,0.79,449,431,83
+29,29,"government increase number
+we get growth
+we have growth
+we have increase
+we improve agreement",Macroeconomic Impacts,economics,0.33,0.75,0.47,116,-0.59,0.74,0.78,0.53,0.47,0.24,0.76,512,485,159
+30,30,"you see number
+area have number
+country have number
+estimate put cost
+estimate put figure",Number of Migrants,flows,0.3,0.72,0.45,3,0.0,0.72,0.92,0.48,0.52,0.21,0.79,356,338,70
+31,31,"people do job
+people find job
+who have work
+who have job
+who give work",Job Market,economics,0.39,0.69,0.54,0,-0.44,0.8,0.84,0.47,0.53,0.21,0.79,464,450,78
+32,32,"we contact office
+office issue notice
+i contact office
+office issue statement
+office tell office",Government Office Policies,systems/policy,0.22,0.87,0.7,1,-0.59,0.51,0.83,0.43,0.57,0.17,0.83,302,270,98
+33,33,"government introduce system
+government introduce series
+government publish report
+government introduce measure
+government introduce legislation",Government Actions,systems/policy,0.33,0.76,0.54,5,-0.24,0.59,0.75,0.53,0.47,0.21,0.79,1270,1210,305
+34,34,"you leave what
+i leave alone
+we scrap plan
+we scrap reporting
+we stop interest",Leaving Home,flows,0.18,0.67,0.22,2,-0.59,0.79,0.83,0.49,0.51,0.2,0.8,293,279,74
+35,35,"people have choice
+those have choice
+those have impact
+those make choice
+trauma have impact",Perceptions of Choices & Impacts,public attitudes,0.32,0.67,0.41,0,-0.24,0.8,0.87,0.51,0.49,0.23,0.77,1084,1021,143
+36,36,"people raise concern
+people have problem
+we face problem
+we face difficulty
+we face crisis",Perceived Concerns,public attitudes,0.19,0.53,0.26,1,-0.44,0.76,0.9,0.47,0.53,0.22,0.78,1408,1340,272
+37,37,"you need thing
+concern require consideration
+condition include requirement
+we want answer
+which have requirement",Migrant & Third Party Needs,public attitudes,0.35,0.93,0.49,0,0.15,0.82,0.91,0.51,0.49,0.24,0.76,622,594,99
+38,38,"you thank you
+biden have respect
+i accept that
+i accept this
+i admire approach",Support to Migrants,integration,0.54,0.77,0.72,4,0.15,0.76,0.92,0.46,0.54,0.19,0.81,1214,1142,266
+39,39,"we not support bill
+you not receive briefing
+we not take decision
+we not see this
+we not pursue protection",Negation of Actions,flows,-0.23,0.79,0.81,6,-0.59,0.63,0.84,0.46,0.54,0.21,0.79,421,383,131
+40,40,"government do nothing
+people do nothing
+we not achieve anything
+we know nothing
+we hear nothing",Lack of Actions & Solutions,integration,0.36,0.69,0.49,1,-0.85,0.79,0.9,0.43,0.57,0.2,0.8,582,554,107
+41,41,"people have right
+that s i
+we have those
+we have what
+we have which",Individual Perceptions,economics,0.34,0.7,0.45,3,-0.59,0.79,0.92,0.47,0.53,0.19,0.81,8778,8162,750
+42,42,"you see lot
+which generate lot
+which get lot
+which give lot
+which have lot",Voicing Support and Value,integration,0.32,0.7,0.4,0,0.0,0.79,0.89,0.47,0.53,0.21,0.79,585,555,73
